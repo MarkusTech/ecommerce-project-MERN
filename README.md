@@ -1,1 +1,2 @@
-@copyright by becodemy 2023
+# MERN STACK ECOMMERCE WEB APPLICATION
+Created by: Wenn Mark Recopelacion
